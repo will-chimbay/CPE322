@@ -10,5 +10,15 @@
 ---
 [TESTING A LINK](https://github.com/will-chimbay/CPE322/tree/main)
 ---
-
+LIST OF ITMES TO INCLUDE | Assignment 0
+1. heading
+2. bold
+3. italic
+4. block quote
+5. ordered list
+6. unordered list
+7. code
+8. horizontal rule
+9. link
+10. image
 
