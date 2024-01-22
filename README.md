@@ -8,7 +8,7 @@
 > - developing projects
 > - and miscelaneous tomfoolery
 ---
-[TESTING A LINK](
+[TESTING A LINK](https://github.com/will-chimbay/CPE322/tree/main)
 ---
 
 
