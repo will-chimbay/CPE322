@@ -3,4 +3,7 @@
 
 *Welcome to my repo, I'm a third year Computer Engineering major*
 
-> Here we'll engange in completing coding assignments, developing projects, and other such tomfoolery
+> Here we'll engange in working on:
+> - coding assignments
+> - developing projects
+> - and other such tomfoolery
