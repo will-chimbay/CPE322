@@ -22,4 +22,5 @@ LIST OF ITMES TO INCLUDE | Assignment 0
 9. link
 10. image
 
-![WIN_20240123_18_43_01_Pro](https://github.com/will-chimbay/CPE322/assets/123396327/0f1cc7ef-0449-47b1-9ccb-7c229a26b383)
+<img width="667" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/104a2852-1ee4-4858-ac0b-0b0672decc5b">
+
