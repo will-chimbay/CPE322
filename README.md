@@ -17,7 +17,7 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 4. block quote
 5. ordered list
 6. unordered list
-7. code
+7. `code`
 8. horizontal rule
 9. link
 10. image (see below)
