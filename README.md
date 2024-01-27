@@ -28,3 +28,9 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 > [NOTE!]
 >
 > *this ReadMe will be updated frequently*
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
