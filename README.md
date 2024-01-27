@@ -24,7 +24,7 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 
 <img width="408" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/71ff2caf-d991-430f-be0e-5fec476735d1">
 
-<font color="red">This text is red!</font>
+<p style="color:blue">Make this text blue.</p>
 > [NOTE!]
 >
 > *this ReadMe will be updated frequently*
