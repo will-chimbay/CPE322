@@ -10,7 +10,7 @@
 ---
 [TESTING A LINK](https://github.com/will-chimbay/CPE322/tree/main)
 ---
-LIST OF ITEMS TO INCLUDE | Assignment 0
+## LIST OF ITEMS TO INCLUDE | Assignment 0
 1. heading
 2. bold
 3. italic
