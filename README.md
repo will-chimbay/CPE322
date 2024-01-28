@@ -17,11 +17,12 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 4. block quote
 5. ordered list
 6. unordered list
-7. `code`
+7. `code` (see below)
 8. horizontal rule
 9. link
 10. image (see below)
 
+> image of an image of an image:
 <img width="408" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/71ff2caf-d991-430f-be0e-5fec476735d1">
 
 
