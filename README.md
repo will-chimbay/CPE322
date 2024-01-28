@@ -25,7 +25,7 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 ## Image of an image of an image:
 <img width="408" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/71ff2caf-d991-430f-be0e-5fec476735d1">
 
-## CODE:
+## CODE (ex. of array manipulation):
 ```
 int countEvens(int x[], int n)
 {
