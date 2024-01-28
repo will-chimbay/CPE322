@@ -22,7 +22,7 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 9. link
 10. image (see below)
 
-> image of an image of an image:
+## Image of an image of an image:
 <img width="408" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/71ff2caf-d991-430f-be0e-5fec476735d1">
 
 
@@ -30,6 +30,7 @@ LIST OF ITEMS TO INCLUDE | Assignment 0
 >
 > *this ReadMe will be updated frequently*
 
+## CODE:
 ```
 int countEvens(int x[], int n)
 {
