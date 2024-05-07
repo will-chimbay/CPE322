@@ -1,5 +1,8 @@
 # LAB 2 - Command Line
 
+> Took a little bit of work to get RaspberryPi set up but was able to do nonetheless. Followed mostly Lessons 1+2 to complete tasks
+
+
 ## Commands being run
 <img width="527" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/7c678899-0c84-449e-b01a-49fa161f7652">
 <img width="530" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/3bf21e05-58d3-4445-9a31-0e40abab72e1">
