@@ -1,4 +1,4 @@
-* Lab 9 - Data Analysis
+# Lab 9 - Data Analysis
 
 Ran:
 - sudo apt install libxml2-dev libxslt1-dev
