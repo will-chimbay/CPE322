@@ -7,6 +7,8 @@ Followed tutorial under lesson 6 to install Node.js
 
 
 Executed the rest as well following along implementations:
+
+
 <img width="116" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/ad0a9709-bb15-491a-a922-8feada44510c">
 
 
