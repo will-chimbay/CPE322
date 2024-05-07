@@ -13,7 +13,9 @@ Executed the rest as well following along implementations:
 
 
 
+
 <img width="467" alt="image" src="https://github.com/will-chimbay/CPE322/assets/123396327/9ddc6482-6704-4aa3-be81-f47f1148a35a">
+
 
 
 
